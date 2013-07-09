@@ -22,9 +22,9 @@ welcome to use it. If you can give attribution
 that would be nice, but it's certainly not required.
 If you want to, please use the following:
 
->Ben Bateman
->email: me@benspants.com
->website: benspants.com
->twitter: @benspants
+> Ben Bateman  
+> email: me@benspants.com  
+> website: benspants.com  
+> twitter: @benspants  
 
 Onwards, Aoshima!
