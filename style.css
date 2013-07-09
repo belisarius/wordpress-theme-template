@@ -111,8 +111,10 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 td { vertical-align: top; }
 
-body, select, input, textarea { color: black; font-family: Arial,Helvetica,sans-serif; }
+html, body { color: black; }
 
+/* Module - Post: begin */
+/* Module - Post: end */
 .ir { background-color: transparent; background-repeat: no-repeat; border: 0; direction: ltr; display: block; overflow: hidden; text-align: left; text-indent: -999em; }
 .ir br { display: none; }
 
