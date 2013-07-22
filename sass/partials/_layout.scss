@@ -1,5 +1,22 @@
-// layout
+/* layout */
 
+/* Wraps the entire page, including .l-header, .l-middle, and .l-footer. */
 #l-container {}
 
+/* Contains navigation modules, and any header graphics or text.
+   Generally, this is everything at the top of the page that won't change from page to page. Its content should be as static as possible. */
 .l-header {}
+
+/* This is the meat of the page, where all of the real dymanic content sits, i.e. posts, pages, etc. */
+.l-middle {}
+
+/* This is a default sidebar. It's not always necessary, and this template can be copied or modified for additional sidebars.
+The base sidebar is .l-sidebar, possible other sidebar names might be
+	.l-sidebar-right
+	.l-sidebar-second
+	.l-sidebar-user
+Additional sidebars must be defined in functions.php and placed in template files. */
+.l-sidebar {}
+
+/* Similar to the header, the content here should be mostly static from page to page.
+.l-footer {}
